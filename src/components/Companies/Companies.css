@@ -1,0 +1,12 @@
+.company-logo {
+    width: 140px;
+    margin: 20px;
+    margin: 2%;
+}
+
+.company-logo:hover {
+    filter: grayscale(1);
+}
+.partner-section{
+    height: 200px;
+}

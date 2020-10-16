@@ -1,0 +1,19 @@
+.works-bg {
+    background: #111430;
+}
+.sliderImg {
+    width: 465.491455078125px;
+    height: 334.7007141113281px;
+    margin-left: 20%;
+    padding-left: 10%;
+    border-radius: 8.238786697387695px;
+}
+.react-multi-carousel-item {
+    margin: 30px;
+}
+.react-multi-carousel-dot button {
+    background: #242a65;
+}
+.react-multi-carousel-dot--active button {
+    background: #fbd062 !important;
+}
